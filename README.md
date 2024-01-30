@@ -103,6 +103,7 @@
 
 - Winner of T-shirt Designing Competition conducted by CAPEC.
 - 2nd Runner-up, Hult Prize 2023 (On campus)
+- Event organizer
 
 ---
 
@@ -116,11 +117,6 @@ Apart from coding, I enjoy trekking and exploring the natural beauty of Nepal. T
 
 My current focus is on completing my computer engineering degree and gaining practical experience in app development. I am actively seeking opportunities to contribute to innovative projects and enhance my skills.
 
----
-
-### Side Projects
-
-Currently working on a personal blog where I share my experiences in coding, technology, and trekking adventures. The blog serves as a platform to connect with like-minded individuals and contribute to the tech community.
 
 ---
 
